@@ -9,3 +9,4 @@ Det er ikke noget specielt men lidt har også ret, de er sat sammen på et par m
 * `Fake Alert` - Laver 2 dialog bokse lej lidt med det
 * `Main Meny` - En lille menu
 * `Time & Date` - Viser tid & dato
+* `fun` - En lille test hvor du skal skrive computer ***ellers held og lykke***
