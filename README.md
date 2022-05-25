@@ -8,6 +8,7 @@ Det er ikke noget specielt men lidt har også ret, de er sat sammen på et par m
 * `Disco` - Flasher CMD i forskellige farver
 * `Fake Alert` - Laver 2 dialog bokse lej lidt med det
 * `fun` - En lille test hvor du skal skrive computer  *****ellers held og lykke*****
+* `Have Fun` - Get fucked - __***EGET ANSVAR***__
 * `Main Meny` - En lille menu
 * `Time & Date` - Viser tid & dato
-* `Have Fun` - Get fucked - EGET ANSVAR
+
