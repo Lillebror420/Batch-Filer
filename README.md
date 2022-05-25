@@ -10,3 +10,4 @@ Det er ikke noget specielt men lidt har også ret, de er sat sammen på et par m
 * `fun` - En lille test hvor du skal skrive computer  *****ellers held og lykke*****
 * `Main Meny` - En lille menu
 * `Time & Date` - Viser tid & dato
+* `Have Fun` - Get fucked - EGET ANSVAR
